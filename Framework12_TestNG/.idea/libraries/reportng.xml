@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="reportng">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/external_jar/reportng" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/external_jar/reportng" recursive="false" />
+  </library>
+</component>
